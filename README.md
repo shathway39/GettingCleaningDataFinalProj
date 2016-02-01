@@ -10,3 +10,5 @@ Includes R code, run_analysis.R, that can be executed to produce the results
 Includes TidyData.csv which is the incomplete tidy data set. I believe it satisfied items 1, 2 & 4 of the assignment.
 
 The run_analysis.R creates a function run_analysis() that takes no arguments. As such, the working directory should contain the input files listed in 1 through 4 above.
+
+Well I have forgotten how to push something from my computer to the git repository. I will read more tomorow and see if I can make a submission.
